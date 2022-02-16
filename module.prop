@@ -1,0 +1,7 @@
+id=make_MIUI_version_to_13
+name=make_MIUI_version_to_13
+version=0.0.1
+versionCode=0
+author=Xizicl
+description=让ro.miui.ui.version变成miui13的值，欺骗miui+ beta 并让他激活应用流转功能
+updateJson=<url> (optional)
