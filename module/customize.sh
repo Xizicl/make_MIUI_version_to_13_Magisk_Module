@@ -6,3 +6,4 @@ ui_print ZIPFILE
 ui_print ARCH
 ui_print IS64BIT
 ui_print API
+ui_print "安装完成！建议重启手机，不过不重启也没事"
