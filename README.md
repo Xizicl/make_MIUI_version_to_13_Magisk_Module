@@ -1,11 +1,19 @@
-# make_MIUI_version_to_13_Magisk_Module 是什么？
-make_MIUI_version_to_13_Magisk_Module是一个magisk 模块 是开发用来让miui+ beta 在miui12.5下 支持 应用接力 功能
+# make_MIUI_version_to_13_Magisk_Module
 
-# Supported Versions
-理论上支持包括但不限于 MIUI 12.5 安卓11
+`make_MIUI_version_to_13_Magisk_Module` 是一个 Magisk 模块，开发用于让 MIUI+ Beta 在 MIUI 12.5 下支持应用接力功能。
 
-# Download
-please go to Github Releases page 
+## 支持的版本
 
-# License
-make_MIUI_version_to_13_Magisk_Module is licensed under the GNU General Public License v3 (GPL-3) (http://www.gnu.org/copyleft/gpl.html).
+理论上支持包括但不限于 MIUI 12.5（安卓 11）。
+
+## 下载
+
+请前往 [GitHub Releases 页面](https://github.com/Xizicl/make_MIUI_version_to_13_Magisk_Module/releases) 下载。
+
+## 许可证
+
+`make_MIUI_version_to_13_Magisk_Module` 采用 [GNU General Public License v3 (GPL-3)](http://www.gnu.org/copyleft/gpl.html) 许可证。
+
+## 仓库地址
+
+[GitHub 仓库](https://github.com/Xizicl/make_MIUI_version_to_13_Magisk_Module)
